@@ -57,7 +57,7 @@ int main()
 /* **************** main section end *************** */
 
 
-/* **************** defination section end *************** */
+/* **************** defination section start *************** */
 
 unsigned short checksum(void *data_pointer , int len)
 {
