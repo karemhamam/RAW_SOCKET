@@ -15,7 +15,7 @@
 #include <netinet/in.h>      // for working with internet addresses
 #include <arpa/inet.h>       // for converting IP addresses between different formats.
 #include <unistd.h>          // for close() to close the socket
-#include "raw_socket.h"
+#include "raw_socket.h"      // for the decleration of checksum func.
 
 /* **************** include section end *************** */
 
