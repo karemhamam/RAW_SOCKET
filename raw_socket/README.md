@@ -35,6 +35,14 @@ This program demonstrates how to use raw sockets in C to send an ICMP "ping" (ec
 - If the program runs successfully, there will be no output, as it only sends an ICMP packet.
 - If there is an error creating the socket or sending the packet, an error message will be displayed.
 
+## video of explanation
+
+(https://drive.google.com/file/d/11hRO0w8K_1cYGB4I5PHEtGgNaqRSyZCj/view?usp=sharing)
+
+## google form for any question?
+
+(https://docs.google.com/forms/d/e/1FAIpQLScfHp-l0NzRYxH1qwOKOzwkYySPRkE7aKoDOspkPw7Sb3sicw/viewform?usp=sf_link)
+
 ## Contribution
 feel free to fork the repository and submit a pull request. For major changes, please open an issue first to discuss what you would like to change.
 
